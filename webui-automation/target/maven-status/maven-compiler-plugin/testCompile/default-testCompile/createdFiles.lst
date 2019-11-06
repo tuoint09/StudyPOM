@@ -1,0 +1,12 @@
+vn\amabuy\pages\HomePage.class
+vn\amabuy\pages\RegisterPage.class
+vn\amabuy\capabilities\chrome\MyCapabilityEnhancer.class
+vn\amabuy\pages\LoginPage.class
+vn\amabuy\models\Account.class
+vn\amabuy\steps\serenity\HomeSteps.class
+vn\amabuy\features\properties\MyProperties.class
+vn\amabuy\steps\serenity\LoginSteps.class
+vn\amabuy\pages\RegisterPage$Target.class
+vn\amabuy\features\browser\WhenOpeningTheWeb.class
+vn\amabuy\features\register\WhenRegisterNewAccount.class
+vn\amabuy\steps\serenity\RegisterPageSteps.class

@@ -1,0 +1,11 @@
+D:\Automation test\StudyPOM\webui-automation\src\test\java\vn\amabuy\models\Account.java
+D:\Automation test\StudyPOM\webui-automation\src\test\java\vn\amabuy\steps\serenity\RegisterPageSteps.java
+D:\Automation test\StudyPOM\webui-automation\src\test\java\vn\amabuy\features\browser\WhenOpeningTheWeb.java
+D:\Automation test\StudyPOM\webui-automation\src\test\java\vn\amabuy\pages\HomePage.java
+D:\Automation test\StudyPOM\webui-automation\src\test\java\vn\amabuy\steps\serenity\HomeSteps.java
+D:\Automation test\StudyPOM\webui-automation\src\test\java\vn\amabuy\steps\serenity\LoginSteps.java
+D:\Automation test\StudyPOM\webui-automation\src\test\java\vn\amabuy\capabilities\chrome\MyCapabilityEnhancer.java
+D:\Automation test\StudyPOM\webui-automation\src\test\java\vn\amabuy\pages\LoginPage.java
+D:\Automation test\StudyPOM\webui-automation\src\test\java\vn\amabuy\features\register\WhenRegisterNewAccount.java
+D:\Automation test\StudyPOM\webui-automation\src\test\java\vn\amabuy\pages\RegisterPage.java
+D:\Automation test\StudyPOM\webui-automation\src\test\java\vn\amabuy\features\properties\MyProperties.java
